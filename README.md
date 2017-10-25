@@ -24,3 +24,13 @@ Les cours (théorique et pratique) ainsi que les codes sources seront mises en l
 | 4. Relay, DHT11, Potentiomètre, Photorésistance, Water. | potentiometre.zip |
 | 5. Afficheurs 7 segments, LCD, LCD I2C.                 | 7seg_LCD_I2C.zip  |
 | 6. RFID, Infrarouge                                     | IR-RFID.zip       |
+
+
+## Liste des bibliothèques utilisées
+|                 Bibliothèque                 |                 Source       |
+|----------------------------------------------|------------------------------|
+| 1. DHT.                                      | DHT.zip                      |
+| 2. LCD I2C (avec mes modifications)          | LiquidCrystal_I2C_my.zip     |
+| 3. IR Lib.                                   | IRLib.zip                    |
+| 4. RFID.                                     | mfrc522-master.zip           |
+| 5. FreeRTOS.                                 | Arduino_FreeRTOS-master.zip  |
